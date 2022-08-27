@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 import java.util.List;
 
-public class test02 {
+public class Test02 {
     /*Main method oluşturun ve aşağıdaki görevi tamamlayın.
          a. http://a.testaddressbook.com adresine gidiniz.
          b. Sign in butonuna basin

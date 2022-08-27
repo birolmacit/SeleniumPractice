@@ -1,13 +1,11 @@
 package myPractices;
 
-import com.beust.jcommander.IStringConverter;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class test01 {
+public class Test01 {
     /*
         1.https://www.amazon.com url sine gidin
         2.baslıgın Amazon  (BUYUK HARFLE) kelimesi icerdiğini test edin
